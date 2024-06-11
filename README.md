@@ -1,8 +1,9 @@
-# [Todo List Project](https://todo-list-vinaykollikani.netlify.app/)
+# Todo List Project
 
 Welcome to the Todo List Project! This project is a simple and efficient todo list application developed using modern
 web technologies. The main purpose of this project is to help users keep track of their tasks and manage their time
 effectively.
+Link to Todo App [Visit](https://todo-list-vinaykollikani.netlify.app/).
 
 ## Technologies Used
 
